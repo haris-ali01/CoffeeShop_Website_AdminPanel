@@ -1,4 +1,11 @@
-# CoffeeShop_Website_AdminPanel
+# CoffeeShop Website with AdminPanel
+
+# Setup:
+1. Install Xampp local server.
+2. Edit the config file.
+3. Add your Database, username and password.
+4. Go to browser and open in localhost.
+--------------------------------------------------------------------
 
 # Coffee Website Images
 ![alt text](mockups/1.png)
